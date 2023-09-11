@@ -11,13 +11,13 @@
 // This sets the token for the bot to log in with
 // This MUST be a bot token (user tokens will not work)
 
-token = MTE1MDc4ODYzMzIyNjM5MTY4Mg.GSfO02.ZewkYqMA1oy2xXtmwsb3OYucVve9cw_lpy5hQI
+token = bot_token (ask me for token)
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 
-owner = 555114523225227275
+owner = owner_id
 
 
 // This sets the prefix for the bot
